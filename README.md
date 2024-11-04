@@ -4,7 +4,7 @@
 [https://shengmingsu.lanzoue.com/iEBSw167bf3e]
 
 # Linux的修改打包版（v2.3）
-[https://shengmingsu.lanzouw.com/iVXt21pj1y0b]
+[https://shengmingsu.lanzouw.com/ivTly2eaf6ra]
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
