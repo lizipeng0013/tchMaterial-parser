@@ -1,9 +1,9 @@
 # [国家中小学智慧教育平台](https://basic.smartedu.cn/tchMaterial/) 电子课本下载工具
 
-# Linux的打包版（v1.2）：
+# Linux的修改打包版（v1.2）：
 [https://shengmingsu.lanzoue.com/iEBSw167bf3e]
 
-# Linux的打包版（v2.0）
+# Linux的修改打包版（v2.3）
 [https://shengmingsu.lanzouw.com/iVXt21pj1y0b]
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
