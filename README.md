@@ -6,6 +6,9 @@
 # Linux的修改打包版（v2.3）
 [https://shengmingsu.lanzouw.com/ivTly2eaf6ra]
 
+# Windows的修改打包版（v2.3）
+[https://shengmingsu.lanzouw.com/iLJH12ecl83g]
+
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Made With Love❤️](https://img.shields.io/badge/Made_With-%E2%9D%A4-red.svg)
