@@ -4,7 +4,7 @@
 [https://shengmingsu.lanzoue.com/iEBSw167bf3e]
 
 # Linux的修改打包版（v2.3）
-[https://shengmingsu.lanzouw.com/ivTly2eaf6ra]
+[https://shengmingsu.lanzouw.com/iNrJS2edfewb]
 
 # Windows的修改打包版（v2.3）
 [https://shengmingsu.lanzouw.com/iLJH12ecl83g]
