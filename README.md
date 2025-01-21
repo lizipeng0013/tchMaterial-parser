@@ -6,8 +6,11 @@
 # Linux的修改打包版（v2.3）
 [https://shengmingsu.lanzouw.com/iNrJS2edfewb]
 
-# Windows的修改打包版（v2.3）
+# Windows的修改打包版（v2.3）-python3.12
 [https://shengmingsu.lanzouw.com/iLJH12ecl83g]
+
+# Windows的修改打包版（v2.3）-python3.8（支持Win7）
+[https://shengmingsu.lanzouw.com/iVgJs2lkrbif]
 
 ![Python Version](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
